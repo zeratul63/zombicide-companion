@@ -1,0 +1,32 @@
+# Секретные данные
+.env
+.env.local
+.env.*.local
+
+# Локальные сохранения (не нужны в git)
+server/saves/
+server/saves/*
+!server/saves/.gitkeep
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Сборка
+client/build/
+server/public/
+build/
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp

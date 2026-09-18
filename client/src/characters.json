@@ -1,0 +1,182 @@
+[
+  {
+    "id": "karl",
+    "name": "Карл",
+    "source": "Fort Hendrix",
+    "avatar": "🧔"
+  },
+  {
+    "id": "michelle",
+    "name": "Мишель",
+    "source": "Fort Hendrix",
+    "avatar": "👩"
+  },
+  {
+    "id": "marian",
+    "name": "Мэриан",
+    "source": "Fort Hendrix",
+    "avatar": "👩"
+  },
+  {
+    "id": "riley",
+    "name": "Райли",
+    "source": "Fort Hendrix",
+    "avatar": "🧑"
+  },
+  {
+    "id": "havier",
+    "name": "Хавьер",
+    "source": "Fort Hendrix",
+    "avatar": "🧔"
+  },
+  {
+    "id": "wayne",
+    "name": "Уэйн",
+    "source": "Fort Hendrix",
+    "avatar": "🧔"
+  },
+  {
+    "id": "tiger-sam",
+    "name": "Тайгер Сэм",
+    "source": "Базовая коробка",
+    "avatar": "🐯"
+  },
+  {
+    "id": "lu",
+    "name": "Лу",
+    "source": "Базовая коробка",
+    "avatar": "🧑"
+  },
+  {
+    "id": "banda",
+    "name": "Ванда",
+    "source": "Базовая коробка",
+    "avatar": "👩"
+  },
+  {
+    "id": "ostara",
+    "name": "Остара",
+    "source": "Базовая коробка",
+    "avatar": "👩"
+  },
+  {
+    "id": "dug",
+    "name": "Дуг",
+    "source": "Базовая коробка",
+    "avatar": "🧔"
+  },
+  {
+    "id": "emi",
+    "name": "Эми",
+    "source": "Базовая коробка",
+    "avatar": "👩"
+  },
+  {
+    "id": "elli",
+    "name": "Элли",
+    "source": "Базовая коробка",
+    "avatar": "👩"
+  },
+  {
+    "id": "odin",
+    "name": "Один",
+    "source": "Базовая коробка",
+    "avatar": "🧔"
+  },
+  {
+    "id": "ned",
+    "name": "Нед",
+    "source": "Базовая коробка",
+    "avatar": "🧔"
+  },
+  {
+    "id": "josh",
+    "name": "Джош",
+    "source": "Базовая коробка",
+    "avatar": "🧑"
+  },
+  {
+    "id": "banny-dji",
+    "name": "Банни Джи",
+    "source": "Базовая коробка",
+    "avatar": "👩"
+  },
+  {
+    "id": "lili",
+    "name": "Лили",
+    "source": "Базовая коробка",
+    "avatar": "👩"
+  },
+  {
+    "id": "glenn",
+    "name": "Гленн",
+    "source": "Хроники выживших",
+    "avatar": "🧔"
+  },
+  {
+    "id": "amado",
+    "name": "Амадо",
+    "source": "Хроники выживших",
+    "avatar": "🧔"
+  },
+  {
+    "id": "shamsya",
+    "name": "Шамсия",
+    "source": "Хроники выживших",
+    "avatar": "👩"
+  },
+  {
+    "id": "preston",
+    "name": "Престон",
+    "source": "Хроники выживших",
+    "avatar": "🧔"
+  },
+  {
+    "id": "erin",
+    "name": "Эрин",
+    "source": "Хроники выживших",
+    "avatar": "👩"
+  },
+  {
+    "id": "ben",
+    "name": "Бен",
+    "source": "Хроники выживших",
+    "avatar": "🧔"
+  },
+  {
+    "id": "rino",
+    "name": "Рино",
+    "source": "Хроники выживших",
+    "avatar": "🧑"
+  },
+  {
+    "id": "mark",
+    "name": "Марк",
+    "source": "Хроники выживших",
+    "avatar": "🧔"
+  },
+  {
+    "id": "helen",
+    "name": "Хелен",
+    "source": "Хроники выживших",
+    "avatar": "👩"
+  },
+  {
+    "id": "kiki",
+    "name": "Кики",
+    "source": "Хроники выживших",
+    "avatar": "👩"
+  },
+  {
+    "id": "yuka",
+    "name": "Юка",
+    "source": "Хроники выживших",
+    "avatar": "👩"
+  },
+  {
+    "id": "latisha",
+    "name": "Латиша",
+    "source": "Хроники выживших",
+    "avatar": "👩"
+  }
+]
